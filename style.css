@@ -164,6 +164,7 @@ h1 {
 
 @media (max-width: 530px) {
     body{
+        height: 150vh;
         display: block;
     }
     h1{
